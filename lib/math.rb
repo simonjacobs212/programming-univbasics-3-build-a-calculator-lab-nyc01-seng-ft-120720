@@ -21,3 +21,5 @@ end
 def square_root(num)
   num**
 end
+
+addition(1, 2)
